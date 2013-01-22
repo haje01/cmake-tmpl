@@ -1,0 +1,2 @@
+
+#define SAMPLE_XMLFILE "${CMAKE_CURRENT_SOURCE_DIR}/test.xml"
